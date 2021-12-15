@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header__div--columna{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.ul--stile{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+
+}
+
+
+.li__img--stile{
+    height: 25px;
+    width: 25px;
+    margin-left: 12px;
+}
