@@ -25,7 +25,7 @@
 /* stilos section present */
 .section__div--flex{
     display: flex;
-    margin-top:20px ;
+    margin-top:20px;
 }
 .present__img--tweter{
     height: 25px;
