@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* stilos Header */
 .header__div--columna{
     margin-top: 35px;
     margin-bottom: 35px;
@@ -15,9 +16,24 @@
 
 }
 
-
 .li__img--stile{
     height: 25px;
     width: 25px;
     margin-left: 12px;
+}
+
+/* stilos section present */
+.section__div--flex{
+    display: flex;
+    margin-top:20px ;
+}
+.present__img--tweter{
+    height: 25px;
+    width: 25px;
+}
+.present__a--stilo{
+    text-decoration: none;
+}
+.present__span--upercase{
+    text-transform: uppercase;
 }
