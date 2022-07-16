@@ -1,7 +1,10 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-style: bold;
+     
 }
 /* stilos Header */
 .header__div--columna{
