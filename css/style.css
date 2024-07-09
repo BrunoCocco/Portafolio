@@ -10,9 +10,11 @@
     box-sizing: border-box;
     font-family: 'Edu VIC WA NT Beginner', cursive;
     font-style: bold;
-     
 }
 /* stilos Header */
+body{
+    background-color: #63bd8b;
+}
 
 .ul--stile{
     text-decoration: none;
@@ -29,7 +31,7 @@
 
 /* stilos section present */
 .section--general__color{
-    background-color:#FA6348;
+    background-color:#b348fa;
 }
 .section__div--flex{
     display: flex;
@@ -37,6 +39,7 @@
 }
 .section__h2--stilo{
     font-size: 45px;
+    color: white;
 }
 .present__img--tweter{
     height: 25px;
@@ -47,4 +50,8 @@
 }
 .present__span--upercase{
     text-transform: uppercase;
+}
+.section__p--stilo {
+    font-size: 25px;
+    color:white;
 }
